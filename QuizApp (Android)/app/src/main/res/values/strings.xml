@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="myapp_name">Quiz App</string>
+    <string name="option1">a</string>
+    <string name="option2">b</string>
+    <string name="option3">c</string>
+    <string name="option4">d</string>
+    <string name="StartQuiz">Start Quiz</string>
+    <string name="Highscore">HighScore: 0</string>
+    <string name="Score">Score: 0</string>
+    <string name="QuestionNo">Question: 1/10</string>
+    <string name="Time">00:30</string>
+    <string name="Question">Question:</string>
+    <string name="Next">Next</string>
+    <string name="Name">Your Name</string>
+    <string name="UserName">Emon</string>
+    <string name="StoryBoard">Story Board</string>
+    <string name="Finish">Leave</string>
+</resources>
